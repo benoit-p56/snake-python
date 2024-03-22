@@ -7,4 +7,3 @@ class Snake(Turtle):
         self.penup()
         self.color("white")
         self.speed(1)
-        self.forward(100000)
