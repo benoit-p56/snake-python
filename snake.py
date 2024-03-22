@@ -1,9 +1,10 @@
-import turtle as t
+from turtle import Turtle
 
-class Snake():
-    snake = t.Turtle()
-    snake.shapesize(2, 2, 1)
-    snake.penup()
-    snake.shape("square")
-    snake.color("white")
-    snake.speed(1)
+class Snake(Turtle):
+    def __init__(self, shape: str = "square") -> None:
+        super().__init__(shape)
+        self.shapesize(2, 2, 1)
+        self.penup()
+        self.color("white")
+        self.speed(1)
+        self.forward(100000)
