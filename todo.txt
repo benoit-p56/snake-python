@@ -1,3 +1,5 @@
+(\\ means the task has been completed.)
+
 #TODO: create the screen
 
 #TODO: create the snake
