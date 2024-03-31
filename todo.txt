@@ -6,9 +6,9 @@
 
 #TODO: create the gameloop
 
-#TODO: add event handlers for user control
-
 #TODO: add wall collisions
+
+#TODO: add event handlers for user control
 
 #TODO: create apples
 
