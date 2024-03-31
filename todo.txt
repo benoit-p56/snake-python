@@ -1,0 +1,17 @@
+#TODO: create the screen
+
+#TODO: create the snake
+
+#TODO: create the gameloop
+
+#TODO: add event handlers for user control
+
+#TODO: add wall collisions
+
+#TODO: create apples
+
+#TODO: add functionality to make the snake grow 
+
+#TODO: add collisions to the snake's body
+
+#TODO: implement a score tracker to display the score
