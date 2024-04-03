@@ -4,9 +4,9 @@
 
 #TODO: create the snake \\
 
-#TODO: create the gameloop
+#TODO: create the gameloop \\
 
-#TODO: add wall collisions
+#TODO: add wall collisions \\
 
 #TODO: add event handlers for user control
 
